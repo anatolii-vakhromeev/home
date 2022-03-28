@@ -1,0 +1,21 @@
+body {
+    color: #1d3557;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: serif;
+}
+li {
+    list-style-type: square;
+    margin: 2px;
+}
+a {
+    font-weight: bold;
+}
+img {
+    width:200px;
+    border-radius:50%;
+}
+img.gray {
+    filter: brightness(150%) grayscale(100%);
+}
